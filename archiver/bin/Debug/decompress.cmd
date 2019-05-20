@@ -1,0 +1,1 @@
+archiver.exe decompress -itest.gz -otest_.txt
